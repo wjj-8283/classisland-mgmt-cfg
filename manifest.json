@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "YiBan"
+    "OrganizationName": "YiBan",
     "PolicySource": {
         "Value": "https://raw.gitmirror.com/wjj-8283/classisland-mgmt-cfg/master/policy.json",
         "Version": 1
