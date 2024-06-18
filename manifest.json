@@ -4,7 +4,7 @@
     "PolicySource": {
         "Value": "https://raw.gitmirror.com/wjj-8283/classisland-mgmt-cfg/master/policy.json",
         "Version": 2
-    }
+    },
     "ClassPlanSource": {
         "Value": "https://raw.gitmirror.com/wjj-8283/classisland-mgmt-cfg/master/default.json",
         "Version": 1
