@@ -3,18 +3,18 @@
     "OrganizationName": "YiBan",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/wjj-8283/classisland-mgmt-cfg/master/Default.json",
-        "Version": 202406182117
+        "Version": 2
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/wjj-8283/classisland-mgmt-cfg/master/Default.json",
-        "Version": 202406182117
+        "Version": 2
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/wjj-8283/classisland-mgmt-cfg/master/Default.json",
-        "Version": 202406182117
+        "Version": 2
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/wjj-8283/classisland-mgmt-cfg/master/policy.json",
-        "Version": 202406182117
+        "Version": 2
     }
 }
