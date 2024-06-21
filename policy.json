@@ -6,5 +6,5 @@
     "DisableSettingsEditing": true,
     "DisableSplashCustomize": false,
     "DisableDebugMenu": false,
-    "AllowExitManagement": false
+    "AllowExitManagement": true
 }
