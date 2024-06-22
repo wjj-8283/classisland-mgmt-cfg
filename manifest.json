@@ -15,6 +15,6 @@
     },
     "PolicySource": {
         "Value": "https://raw.gitmirror.com/wjj-8283/classisland-mgmt-cfg/master/{id}/policy.json",
-        "Version": 4
+        "Version": 5
     }
 }
